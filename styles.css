@@ -1,0 +1,63 @@
+*{margin: 0;
+padding: 0;
+background-color: #f1faee; 
+text-align: center;
+}
+.matchbox{
+    font-family: fantasy;
+    color: #3a86ff;
+    letter-spacing: .3px;
+    font-size: 2.3rem;
+    }
+.dd{
+    
+}
+.cc{
+width: 30%;
+    text-align: center;
+    margin: auto;
+    }
+.login-link{
+    color:#000;
+    border-color: blue;
+    font-size: 17px;
+    margin-left: 65%;
+    text-decoration: none;
+    width: 60px;
+    text-align: center;
+    border-radius: 7px;
+}
+.about{
+margin-left: 1.5em;
+font-size: 1.1em;
+}
+.about-para{
+    color: #2c4c75;
+    font-size: 1rem;
+    font-weight: 11px;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+.bbb{
+    color: rgb(18, 18, 160);
+    text-align: center;
+    margin-top: 3%;
+}
+.login{
+color: #1b7dfd;
+text-align: center;
+margin: 3% 0 3%;
+font-size: 1.5em;
+
+}
+table{
+    font-size: 1.2em;
+    margin: auto;
+}
+.bbbb{
+    border-width: 3px;
+    border-color: #1b7dfd;
+    padding: 5px;
+    border-radius: 10px;
+}
